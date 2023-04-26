@@ -192,7 +192,7 @@ main {
 body {
   font-family: 'Nunito', sans-serif;
 
-  background-image: url('/img/fondo3.png');
+  background: #6f6f92;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -255,7 +255,7 @@ textarea {
   height: 100px;
   font-size: 30px;
   resize: none;
-  color: #1179c9; /* Modificación para cambiar el color del texto del placeholder */
+  color: #1b365c; /* Modificación para cambiar el color del texto del placeholder */
 }
 
 textarea::placeholder {
